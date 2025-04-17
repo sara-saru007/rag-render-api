@@ -1,0 +1,14 @@
+# Core web framework
+fastapi==0.95.2
+uvicorn==0.22.0
+langchain==0.0.269
+langchain-community==0.0.19
+openai==0.28.0
+faiss-cpu==1.7.4
+pypdf==3.16.4
+tqdm==4.67.1
+PyYAML==6.0.1
+pandas==1.5.3
+numpy==1.23.5
+python-dotenv==1.0.0
+pydantic<2.0
